@@ -23,7 +23,6 @@ form:
   alphabet: qwertyuiopasdfghjklzxcvbnm
   grouping:
     "\ue43d": 人
-    亻: 人
     朩: 木
     "\ue04c": 木
     "\ue442": 小
@@ -46,7 +45,6 @@ form:
     氺: 水
     犭: 犬
     䒑: 丷
-    士: 土
     牜: 牛
     "\ue029": 牛
     衤: 礻
@@ -77,229 +75,288 @@ form:
     半带调韵母-o5: 半带调韵母-o1
     半带调韵母-u5: 半带调韵母-u1
     半带调韵母-uo5: 半带调韵母-uo1
+    "\ue42f": "\ue42e"
+    "\ue430": "\ue42e"
+    "\ue408": "\ue42e"
+    丝: 纟
+    巛: 巜
+    疋: "\ue03a"
+    "\ue411": "\ue002"
+    㐄: "\ue002"
+    "\ue445": 小
   mapping:
-    龴: j
-    几: j
-    双拼声母-r: r
-    母: a
-    申: n
-    : r
-    子: k
-    工: t
-    八: k
-    由: n
-    半带调韵母-an3: l
-    厉: t
-    半带调韵母-a3: n
-    半带调韵母-an1: g
-    半带调韵母-e2: a
-    : t
-    目: d
-    半带调韵母-ang4: o
-    山: i
-    攵: n
-    二: q
-    半带调韵母-i2: c
-    半带调韵母-i4: i
-    半带调韵母-iao3: n
-    半带调韵母-iu: s
-    钅: q
-    半带调韵母-o3: z
-    乂: i
-    : l
-    双拼声母-m: m
-    半带调韵母-an2: n
-    牛: b
-    儿: j
-    龶: v
-    西: n
-    : j
-    半带调韵母-a2: x
-    半带调韵母-ia: e
-    大: c
-    半带调韵母-ian4: x
-    '5': i
-    半带调韵母-e1: o
-    半带调韵母-u2: j
-    半带调韵母-an4: m
-    半带调韵母-ui2: s
-    半带调韵母-i3: q
-    : i
-    艮: k
-    立: q
-    半带调韵母-ong2: t
-    半带调韵母-uai: r
-    '2': k
-    双拼声母-p: p
-    半带调韵母-ian2: j
-    三: q
-    虫: o
-    亠: l
-    半带调韵母-eng2: v
-    半带调韵母-iao4: f
-    田: d
-    半带调韵母-u1: p
-    半带调韵母-ua: x
+    匚: p
+    : k
+    半带调韵母-uo3: q
+    鸟: d
+    丷: o
+    半带调韵母-e1: m
+    亼: j
     双拼声母-g: g
-    半带调韵母-a4: l
-    十: n
-    半带调韵母-ui1: l
-    半带调韵母-ui4: h
-    厂: k
-    双拼声母-z: z
-    双拼声母-l: l
-    开: k
-    凵: t
-    : k
-    半带调韵母-ong3: z
-    止: k
-    半带调韵母-uo4: k
-    半带调韵母-iao2: m
-    半带调韵母-v: r
-    月: i
-    双拼声母-f: f
-    半带调韵母-uo2: t
-    '3': i
-    灬: e
-    匚: q
-    戊: c
-    木: j
-    口: a
-    : q
-    臼: u
-    半带调韵母-ang2: f
-    予: r
-    半带调韵母-ang3: e
-    白: q
-    戈: c
-    欠: l
-    贝: f
-    半带调韵母-en4: l
-    半带调韵母-eng4: h
-    厶: l
-    乍: o
-    耳: j
-    : t
-    隹: l
-    雨: l
-    : x
-    犬: c
-    双拼声母-sh: u
-    半带调韵母-er: t
-    半带调韵母-ing2: g
-    壬: k
-    双拼声母-q: q
-    半带调韵母-iong: i
-    半带调韵母-uan2: w
-    半带调韵母-uan3: v
-    刀: d
-    半带调韵母-en1: w
-    半带调韵母-ve: b
-    又: c
-    半带调韵母-in: t
-    各: d
-    半带调韵母-a1: a
-    半带调韵母-ing3: m
-    半带调韵母-en3: l
-    彳: k
-    饣: n
+    豕: w
+    丰: l
+    禾: q
+    各: f
+    半带调韵母-uo1: g
+    半带调韵母-ing2: c
+    甘: q
+    立: u
+    半带调韵母-ong2: h
+    鬼: l
+    半带调韵母-un: x
+    亻: j
+    子: l
     双拼声母-ch: i
-    半带调韵母-ong4: s
-    半带调韵母-uo3: o
-    半带调韵母-e3: c
-    半带调韵母-ue: h
-    : r
-    双拼声母-s: s
-    匕: l
-    : b
-    : r
-    半带调韵母-ing1: k
-    半带调韵母-o1: h
-    双拼声母-zh: v
-    双拼声母-w: w
-    之: r
-    双拼声母-b: b
-    双拼声母-n: n
-    半带调韵母-uan1: j
-    半带调韵母-ie: p
-    半带调韵母-ang1: k
-    双拼声母-c: c
-    半带调韵母-uan4: g
-    半带调韵母-e4: f
-    心: d
-    寸: t
-    火: d
-    宀: j
-    爪: j
-    示: v
-    半带调韵母-i1: y
-    '4': f
-    : j
-    半带调韵母-ian3: z
-    半带调韵母-ui3: u
-    及: n
-    亼: k
-    冂: l
-    石: c
-    女: f
-    半带调韵母-eng3: j
-    双拼声母-j: j
-    : t
-    半带调韵母-ian1: o
-    丷: l
-    半带调韵母-o4: u
-    日: v
-    双拼声母-0: o
-    半带调韵母-ong1: n
-    : e
-    土: l
-    马: m
-    手: n
+    半带调韵母-an3: z
+    艹: l
+    半带调韵母-er: t
+    半带调韵母-ui3: a
+    半带调韵母-ing3: t
+    冫: l
     半带调韵母-eng1: d
-    半带调韵母-iao1: b
-    双拼声母-d: d
-    半带调韵母-uang: u
-    半带调韵母-un: d
-    半带调韵母-u3: b
-    半带调韵母-o2: d
-    王: n
-    '1': q
-    力: j
-    双拼声母-t: t
-    礻: k
-    勹: f
-    双拼声母-y: k
-    : i
-    半带调韵母-en2: a
-    禾: v
-    水: k
-    于: t
-    半带调韵母-iang: l
-    半带调韵母-u4: e
-    足: d
-    双拼声母-k: y
-    卩: o
-    莫: q
-    讠: a
-    巾: s
-    彐: j
-    : j
-    己: j
-    人: l
-    小: t
-    纟: j
-    艹: b
-    半带调韵母-ing4: a
-    斤: n
+    贝: f
+    彐: n
+    半带调韵母-ia: w
+    半带调韵母-en4: n
+    臼: f
+    古: p
+    力: l
+    半带调韵母-a4: n
+    半带调韵母-o3: c
+    大: q
+    半带调韵母-ui2: s
+    半带调韵母-ue: m
+    半带调韵母-uan4: d
+    马: o
+    乂: k
+    皿: t
+    手: l
+    白: a
+    工: f
+    半带调韵母-in: s
+    半带调韵母-iong: p
+    半带调韵母-uan3: v
+    礻: j
+    山: k
+    半带调韵母-e2: f
+    斤: j
+    小: l
+    半带调韵母-iao4: z
+    半带调韵母-u1: f
+    耂: j
+    '1': b
+    半带调韵母-u4: p
+    虫: h
+    又: a
+    '5': i
+    双拼声母-q: q
+    辛: s
+    之: e
+    釆: b
+    寸: d
+    饣: o
+    甫: i
     双拼声母-h: h
+    殳: r
+    : a
+    西: j
+    利: d
+    欠: c
+    纟: n
+    半带调韵母-ang3: u
+    执: q
+    巾: t
+    刀: t
+    双拼声母-m: m
+    半带调韵母-o4: k
+    冂: b
+    : q
+    二: h
+    目: j
+    : c
+    双拼声母-zh: v
+    申: a
+    戊: c
+    巴: l
+    半带调韵母-ui4: v
+    半带调韵母-ong3: c
+    讠: n
+    㔾: t
+    : i
+    半带调韵母-o2: e
+    凵: f
+    : j
+    广: n
+    宀: j
+    双拼声母-y: k
+    彳: n
+    半带调韵母-iang: j
+    石: m
+    口: k
+    : b
+    : c
+    半带调韵母-u2: w
+    半带调韵母-o1: w
+    半带调韵母-ie: d
+    双拼声母-0: o
+    几: q
+    牛: f
+    半带调韵母-ian1: n
+    '2': q
+    足: n
+    于: r
+    钅: k
+    半带调韵母-iu: f
+    音: n
+    尃: e
+    戈: j
+    半带调韵母-ang4: t
+    '4': a
+    : j
+    勹: p
+    厂: p
+    乍: t
+    月: p
+    田: d
+    半带调韵母-uo2: t
+    王: f
+    : c
+    卩: i
+    : t
+    百: t
+    半带调韵母-uang: r
+    半带调韵母-iao3: i
+    半带调韵母-v: r
+    半带调韵母-uan1: a
+    氏: c
+    双拼声母-s: s
+    半带调韵母-ian3: h
+    也: e
+    '3': l
+    龴: k
+    半带调韵母-an2: i
+    半带调韵母-ian4: a
+    半带调韵母-eng4: h
+    皮: r
+    半带调韵母-en3: j
+    丁: f
+    半带调韵母-a1: a
+    爪: n
+    : j
+    玨: q
+    : n
+    八: d
+    半带调韵母-uan2: h
+    : n
+    儿: j
+    龶: j
+    己: b
+    尸: j
+    半带调韵母-ui1: u
+    干: t
+    半带调韵母-a2: g
+    半带调韵母-iao2: i
+    予: n
+    双拼声母-p: p
+    半带调韵母-i4: o
+    半带调韵母-ua: z
+    米: q
+    双拼声母-t: t
+    灬: e
+    半带调韵母-ang1: u
+    厶: q
+    半带调韵母-i1: y
+    双拼声母-f: f
+    止: f
+    开: k
+    半带调韵母-en1: c
+    双拼声母-sh: u
+    囗: q
+    半带调韵母-iao1: b
+    由: r
+    半带调韵母-en2: g
+    半带调韵母-e4: e
+    壬: k
+    : n
+    : n
+    半带调韵母-an4: s
+    厉: a
+    查: j
+    半带调韵母-ong4: j
+    双拼声母-l: l
+    半带调韵母-ian2: v
+    双拼声母-r: r
+    人: k
+    半带调韵母-ve: d
+    半带调韵母-eng2: t
+    半带调韵母-ing4: e
+    三: d
+    雨: q
+    行: k
+    双拼声母-j: j
+    十: q
+    半带调韵母-i2: q
+    : p
+    及: k
+    半带调韵母-ang2: e
+    可: b
+    : j
+    水: i
+    双拼声母-n: n
+    : r
+    母: n
+    艮: j
+    示: d
+    疒: i
+    隹: n
+    双拼声母-w: w
+    日: k
+    暴: b
+    七: l
+    半带调韵母-an1: h
+    木: f
+    自: q
+    半带调韵母-u3: b
+    : b
     车: r
-    半带调韵母-uo1: a
-    冫: q
-    广: k
+    半带调韵母-uai: g
+    女: n
+    半带调韵母-ong1: i
     双拼声母-x: x
-    疒: h
-    : s
-    皿: r
+    巜: j
+    火: n
+    旦: a
+    耳: n
+    半带调韵母-uo4: n
+    卜: b
+    亠: j
+    双拼声母-c: c
+    半带调韵母-i3: l
+    : d
+    犬: i
+    : o
+    双拼声母-k: y
+    : l
+    半带调韵母-ing1: t
+    士: i
+    与: j
+    革: o
+    : b
+    匕: r
+    半带调韵母-eng3: x
+    攵: a
+    双拼声母-z: z
+    半带调韵母-e3: a
+    莫: b
+    土: j
+    舌: n
+    : w
+    半带调韵母-a3: i
+    双拼声母-b: b
+    : d
+    心: o
+    双拼声母-d: d
+    句: f
 encoder:
   max_length: 4
   auto_select_length: 4
@@ -378,7 +435,7 @@ optimization:
       pair_equivalence: 1
       tiers: [{duplication: 2, top: 1500}]
     words_full:
-      duplication: 3
+      duplication: 6
   metaheuristic:
     algorithm: SimulatedAnnealing
     parameters:
@@ -421,3 +478,107 @@ data:
       type: compound
       operator: ⿸
       operandList: [广, "\ue0f0"]
+    产:
+      type: compound
+      tags: []
+      operator: ⿱
+      operandList: ["\ue054", 厂]
+    平:
+      type: compound
+      operator: ⿵
+      operandList: ["\uf000", 丨]
+    夹:
+      type: compound
+      operator: ⿵
+      operandList: ["\uf000", 人]
+    来:
+      type: compound
+      operator: ⿵
+      operandList: ["\uf000", "\ue445"]
+    花:
+      type: compound
+      operator: ⿸
+      operandList: ["\uf001", "\ue011"]
+    苻:
+      type: compound
+      operator: ⿸
+      operandList: ["\uf001", 寸]
+    茌:
+      type: compound
+      operator: ⿸
+      operandList: ["\uf001", 士]
+    茯:
+      type: compound
+      operator: ⿸
+      operandList: ["\uf001", 犬]
+    茽:
+      type: compound
+      operator: ⿸
+      operandList: ["\uf001", 中]
+    荏:
+      type: compound
+      operator: ⿸
+      operandList: ["\uf001", 壬]
+    荷:
+      type: compound
+      operator: ⿸
+      operandList: ["\uf001", 可]
+    莅:
+      type: compound
+      operator: ⿸
+      operandList: ["\uf001", 立]
+    莜:
+      type: compound
+      operator: ⿸
+      operandList: ["\uf001", "\uf002"]
+    葆:
+      type: compound
+      operator: ⿸
+      operandList: ["\uf001", 呆]
+    葰:
+      type: compound
+      operator: ⿸
+      operandList: ["\uf001", 夋]
+    蒨:
+      type: compound
+      operator: ⿸
+      operandList: ["\uf001", 青]
+    蓓:
+      type: compound
+      operator: ⿸
+      operandList: ["\uf001", 咅]
+  tags:
+    - 行框
+    - 赢字框
+    - 辩字框
+    - 微字框
+    - 玨框
+    - 落字框
+  repertoire:
+    "\uf000":
+      unicode: 61440
+      tygf: 0
+      gb2312: false
+      gf0014_id: null
+      readings: []
+      glyphs: [{type: derived_component, source: 平, strokes: [{feature: reference, index: 0}, {feature: reference, index: 1}, {feature: reference, index: 2}, {feature: reference, index: 3}]}]
+      ambiguous: false
+      name: 平四
+    "\uf001":
+      unicode: 61441
+      tygf: 0
+      gb2312: false
+      gf0014_id: null
+      readings: []
+      glyphs: [{type: compound, operator: ⿱, operandList: [艹, 亻]}]
+      ambiguous: false
+      name: 荷头
+    "\uf002":
+      unicode: 61442
+      tygf: 0
+      gb2312: false
+      gf0014_id: null
+      readings: []
+      glyphs: [{type: compound, operator: ⿰, operandList: [丨, 攵]}]
+      ambiguous: false
+      name: 竖攵
